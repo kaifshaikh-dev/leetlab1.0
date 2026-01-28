@@ -1,0 +1,37 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black Background -->
+  <rect width="512" height="512" fill="#000000"/>
+
+  <!-- Left Angle Bracket -->
+  <path d="M160 120 L80 256 L160 392"
+        stroke="#6C63FF"
+        stroke-width="40"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Right Angle Bracket -->
+  <path d="M352 120 L432 256 L352 392"
+        stroke="#6C63FF"
+        stroke-width="40"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Flask -->
+  <path d="M256 140
+           V220
+           L210 330
+           Q256 360 302 330
+           L256 220
+           V140"
+        stroke="#6C63FF"
+        stroke-width="18"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Flask bubbles -->
+  <circle cx="238" cy="280" r="10" fill="#6C63FF"/>
+  <circle cx="274" cy="300" r="10" fill="#6C63FF"/>
+</svg>
